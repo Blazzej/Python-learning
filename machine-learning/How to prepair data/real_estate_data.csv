@@ -1,0 +1,51 @@
+id;address;area;price;rooms;built_date;description
+1;ul. Zamkowa 10, Kraków;50.5;350 PLN;2;1995.0;ładne mieszkanie, niedaleko Wawelu.
+2;ul. Piotrkowska 115, Łódź;60.0;420 zl;3;1980.0;Blisko centrum, stan dobry.
+3;ul. Długa 8, Warszawa;70;500 PLN;2;NaN;Umeblowane (do lekkiego odświeżenia).
+4;ul. Leśna 20, Gdańsk;999;5000PLN;5;1985.0;!!! Oferta prywatna, do negocjacji !!!
+5;ul. Sportowa 49, Bydgoszcz;54.6;400 PLN;3;1989.0;Blisko hali sportowej
+6;ul. Grunwaldzka 15, Poznań;55.3;450PLN;3;1980.0;Po remoncie kuchni, woda ciepła miejska
+7;ul. Akacjowa 12, Gdynia;47.5;230 zl;2;1985.0;Z dala od zgiełku, obok lasu
+8;ul. Polna 18, Opole;35.0;150 zl;1;2020.0;Adres niekompletny
+9;ul. Boczna 12, Lublin;55.0;435 PLN;3;1980.0;Dobra lokalizacja przy obwodnicy
+10;ul. Szkolna 4, Katowice;45.0;250 PLN;1;1960.0;W pobliżu szkoły i sklepów
+11;ul. Kasztanowa 2, Zabrze;150;845 PLN;8;2137.0;Duży dom w spokojnej okolicy
+12;ul. Dworcowa 12, Gdańsk;55.7;NaN;3;1950.0;Blisko PKP, kamienica
+13;ul. Sportowa 49, Bydgoszcz;54.6;380 PLN;3;1989.0;Blisko hali sportowej
+14;ul. Mickiewicza 7, Radom;52.3;320 PLN;3;1555.0;Cicha i spokojna okolica
+15;ul. Miodowa 5, Toruń;NaN;200 PLN;2;2015.0;Nowoczesne mieszkanie
+16;ul. Dębowa 6, Olsztyn;65.4;500 PLN;4;1980.0;Przestronne wnętrza
+17;ul. Wesoła 3, Bydgoszcz;50.8;345 PLN;2;1998.0;Blisko parku
+18;ul. Jagiellońska 2, Lublin;75.0;600 PLN;4;1975.0;Idealne dla rodziny
+19;ul. Graniczna 9, Szczecin;43.7;280 PLN;NaN;2005.0;Nowe budownictwo
+20;ul. Piastowska 11, Kraków;58.6;NaN;3;1992.0;Blisko uczelni
+21;ul. Kościuszki 14, Rzeszów;33.3;160 PLN;1;2021.0;Kawalerka w centrum
+22;ul. Warszawska 16, Warszawa;90.0;1200 PLN;5;1970.0;Dom z ogrodem
+23;ul. Chłodna 19, Gdańsk;62.5;450 PLN;3;1988.0;Wysoki standard
+24;ul. Klonowa 21, Łódź;44.2;275 PLN;2;1999.0;W pobliżu centrum handlowego
+25;ul. Słoneczna 23, Wrocław;55.0;380 PLN;0;1983.0;Dobra komunikacja miejska
+26;ul. Świętokrzyska 25, Kielce;39.5;220 PLN;2;2018.0;Nowoczesne wykończenie
+27;ul. Ogrodowa 27, Białystok;48.7;310 PLN;2;1996.0;Dobrze skomunikowane
+28;ul. Jagodowa 29, Poznań;67.8;550 PLN;4;1978.0;Spokojna okolica
+29;ul. Wiosenna 31, Lublin;35.2;180 PLN;1;2020.0;Kawalerka na wynajem
+30;ul. Mazowiecka 33, Katowice;59.4;430 PLN;3;1984.0;Blisko centrum
+31;ul. Zielona 35, Szczecin;78.3;670 PLN;4;1971.0;Blisko lasu
+32;ul. Morska 37, Gdynia;55.9;370 PLN;NaN;1995.0;Widok na morze
+33;ul. Bukowa 39, Toruń;47.2;290 PLN;2;1987.0;Zielona okolica
+34;ul. Spacerowa 41, Radom;60.0;410 PLN;3;1976.0;Przestronne mieszkanie
+35;ul. Widokowa 43, Warszawa;82.1;900 PLN;5;NaN;Luksusowy apartament
+36;ul. Zamkowa 45, Kraków;69.0;500 PLN;4;1990.0;Blisko rynku
+37;ul. Cicha 47, Wrocław;NaN;170 PLN;1;2022.0;Niskie koszty utrzymania
+38;ul. Sportowa 49, Bydgoszcz;54.6;360 PLN;3;1989.0;Blisko hali sportowej
+39;ul. Letnia 51, Lublin;41.9;230 PLN;2;2000.0;Dobra inwestycja
+40;ul. Górna 53, Kielce;68.4;520 PLN;4;1973.0;Cicha okolica
+41;ul. Jasna 55, Olsztyn;NaN;410 PLN;3;1982.0;W pobliżu jeziora
+42;ul. Wschodnia 57, Białystok;45.0;260 PLN;NaN;1991.0;Nowoczesne osiedle
+43;ul. Zaciszna 59, Gdynia;50.1;340 PLN;2;1999.0;Cicha okolica, blisko morza
+44;ul. Wierzbowa 61, Łódź;NaN;580 PLN;4;1985.0;Doskonała lokalizacja
+45;ul. Prusa 63, Opole;38.5;190 PLN;1;2021.0;Nowe mieszkanie
+46;ul. Szeroka 65, Poznań;65.7;530 PLN;4;1977.0;Blisko komunikacji miejskiej
+47;ul. Kwiatowa 67, Katowice;40.9;270 PLN;2;2002.0;Nowoczesne osiedle
+48;ul. Radosna 69, Rzeszów;55.2;375 PLN;3;1993.0;Blisko terenów zielonych
+49;ul. Krótka 71, Warszawa;80.5;NaN;5;1968.0;Przestronny apartament
+50;ul. Słowackiego 73, Wrocław;47.6;295 PLN;2;1986.0;Blisko centrum
